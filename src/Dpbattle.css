@@ -1,0 +1,20 @@
+.imageupload {
+    display:flex ;
+    flex-direction:column;
+    
+
+    border: 2px solid black;
+    border-style: double;
+    border-radius: inherit;
+    width: 100%;
+    height: 100%;
+    
+   
+    background-color:white;
+    
+    
+}
+
+.pro{
+    width: 100%
+}

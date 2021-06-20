@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+  }
+  
+  .app{
+    background-color: #fafafa;
+  }
+  
+  
+  .app_header {
+    position:sticky;
+    top:0;
+    z-index:1;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid lightgray;
+    object-fit: contain;
+    padding: 20px;
+  
+  }
+  
+  .app_headerImage{
+    height: 100px;
+    width: 400px;
+  }
+  .app_headerImage2{
+    height: 25px;
+    width: 100px;
+  }
+  
+  .app_signup{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+  
+  }
+  .buttons {
+    color: blue;
+  }
+  
+  
+  .app_posts{
+    padding: 10px;
+    object-fit: contain;
+    justify-content:center;
+    display: flex;
+    
+  }
+  
+   
